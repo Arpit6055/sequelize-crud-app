@@ -7,14 +7,6 @@
     "run": "node server.js",
     "dev": "nodemon server.js"
   },
-  "keywords": [
-    "nodejs",
-    "express",
-    "sequelize",
-    "rest",
-    "api",
-    "postgresql"
-  ],
   "author": "arpit6055",
   "license": "ISC",
   "dependencies": {
